@@ -1,4 +1,4 @@
-# css-grid
+# CSS Grid Layout
 
 ## useful links
 * [Docs](https://css-tricks.com/snippets/css/complete-guide-grid/)
